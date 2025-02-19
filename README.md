@@ -39,5 +39,5 @@
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ailenaguino&show_icons=true&theme=transparent" alt="Anurag's GitHub stats" style="margin: 0 10px;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ailenaguino&layout=compact&theme=transparent" alt="Top Langs" style="margin: 0 10px;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ailenaguino&layout=compact&theme=transparent&hide=c%2B%2B,javascript,shaderlab,hack,objective-c%2B%2B,hlsl,objective-c" alt="Top Langs" style="margin: 0 10px;">
 </div>
