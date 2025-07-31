@@ -24,6 +24,7 @@
 ![Android](https://img.shields.io/badge/Android-Green?style=plastic&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-purple?style=plastic&logo=kotlin&logoColor=white)
 * [BookTracker](https://github.com/ailenaguino/BookTracker)
+* [PolarSync](https://github.com/MeyrForge/PolarSync)
 
 <br>
 
