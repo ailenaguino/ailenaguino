@@ -3,9 +3,17 @@
 ## Hi there, I'm Aylen 👋
 
 </div>
+
+<div align="center">
+  
+## 📌 Check out my newest project!:
+[TomaBien](https://github.com/MeyrForge/TomaBien)
+  
+</div>
+
 <br>
 
-## 🙋🏻‍♂️ About me:
+## 🙋🏻‍♀️ About me:
 
 ![Android](https://img.shields.io/badge/Android-Green?style=plastic&logo=android&logoColor=white)
 ![AndroidStudio](https://img.shields.io/badge/AndroidStudio-limegreen?style=plastic&logo=androidstudio&logoColor=white)
@@ -25,6 +33,13 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-purple?style=plastic&logo=kotlin&logoColor=white)
 * [BookTracker](https://github.com/ailenaguino/BookTracker)
 * [PolarSync](https://github.com/MeyrForge/PolarSync)
+
+<br>
+
+### 🛡️ MeyrForge projects (my startup!):
+
+* [TomaBien](https://github.com/MeyrForge/TomaBien)  A medication tracker 💊⌚
+* [PolarSync](https://github.com/MeyrForge/PolarSync)  Under Construction 🚧🔜
 
 <br>
 
