@@ -6,8 +6,13 @@
 
 <div align="center">
   
-## 📌 Check out my newest project!:
-[TomaBien](https://github.com/MeyrForge/TomaBien)
+## 🚀 Check out my newest project!
+
+<p align="center">
+  <a href="https://github.com/MeyrForge/TomaBien">
+    <img src="./assets/tomabien-preview.gif" alt="TomaBien goto" width="600">
+  </a>
+</p>
   
 </div>
 
