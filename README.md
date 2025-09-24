@@ -47,10 +47,12 @@
 * [TomaBien](https://github.com/MeyrForge/TomaBien)  A medication tracker 💊⌚
 
 <img src="./assets/polarsync_banner.png" alt="polarsync" width="200">
-* [PolarSync](https://github.com/MeyrForge/PolarSync)  Track. Comprehend. Progress. 📊🫂
+* [PolarSync]("https://github.com/MeyrForge/PolarSync")  Track. Comprehend. Progress. 📊🫂
+
+
 
 <img src="./assets/boh_banner.png" alt="bagofholding" width="200">
-* [Bag of Holding | DM's Vault](https://github.com/MeyrForge/BagOfHolding-DMsVault) Cause even the DM needs an inventory! 📜🐉
+* [Bag of Holding | DM's Vault]("https://github.com/MeyrForge/BagOfHolding-DMsVault") Cause even the DM needs an inventory! 📜🐉
 
 <br>
 
