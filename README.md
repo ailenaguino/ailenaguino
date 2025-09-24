@@ -38,13 +38,20 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-purple?style=plastic&logo=kotlin&logoColor=white)
 * [BookTracker](https://github.com/ailenaguino/BookTracker)
 * [PolarSync](https://github.com/MeyrForge/PolarSync)
+* [Bag of Holding | DM's Vault](https://github.com/MeyrForge/BagOfHolding-DMsVault)
 
 <br>
 
 ### 🛡️ MeyrForge projects (my startup!):
 
 * [TomaBien](https://github.com/MeyrForge/TomaBien)  A medication tracker 💊⌚
-* [PolarSync](https://github.com/MeyrForge/PolarSync)  Under Construction 🚧🔜
+
+<img src="./assets/polarsync_banner.png" alt="polarsync" width="100">
+* [PolarSync](https://github.com/MeyrForge/PolarSync)  Track. Comprehend. Progress. 📊🫂
+
+
+<img src="./assets/boh_banner" alt="bagofholding" width="100">
+* [Bag of Holding | DM's Vault](https://github.com/MeyrForge/BagOfHolding-DMsVault) Cause even the DM needs an inventory! 📜🐉
 
 <br>
 
